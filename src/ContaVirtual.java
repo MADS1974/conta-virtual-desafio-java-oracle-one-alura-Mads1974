@@ -8,7 +8,7 @@ public class ContaVirtual {
         int opcao = 0;
 
         String menu = """
-                || Bem-vindo a sua conta Márcio!||
+                || Bem-vindo a sua conta Márcio! ||
                 ** Digite sua opção **
                 1 - Consultar saldo
                 2 - Transferir valor
